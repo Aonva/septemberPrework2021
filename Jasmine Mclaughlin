@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>
+        <h1>My Favorite Things</h1>
+        <img class="fit-picture"
+        src="Snapchat-1972868946 - Copy.jpg"
+        alt="Jasmine Mclaughlin"
+        width="100px">
+    </title>
+</head>
+<body>
+    <h2>My Favorite Movies</h2>
+    <ol><li>My Neighbor Totoroo</li>
+        <li>What Dreams my come</li>
+        <li>Treasure Planet</li>
+        <li>Mis. Doubtfire</li>
+        <li>Liar Liar</li>
+    </ol>
+    <h2>My Favorite Places to Visit</h2>
+    <ul><li>Colorado</li>
+        <li>California</li>
+        <li>Washington</li>
+        <li>Mexio</li>
+        <li>Canida</li>
+    </ul>
+    <li><a href="https://www.linkedin.com/in/jasmine-mclaughlin-guerrero-467039152/">LinkedIn Profile</a></li> 
+</body>
+</html>
